@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ManipulateFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "delete\r\n./test/"
+    }
+  }
+}
